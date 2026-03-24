@@ -37,12 +37,12 @@ Detailed Exploratory Data Analysis (EDA) was performed to understand usage patte
 
 | Data Quality & Cleaning | Target Distribution |
 |:---:|:---:|
-| ![Missing Values](./screenshots/data_cleaning_nulls.png) | ![Target](./screenshots/target_distribution.png) |
+| ![Missing Values](./Screenshots/missing_values_map.png) | ![Target](./Screenshots/target_distribution.png) |
 | *Visualizing missing data patterns* | *Analyzing sleep quality classes* |
 
 | Feature Correlation | Usage Statistics |
 |:---:|:---:|
-| ![Heatmap](./screenshots/correlation_heatmap.png) | ![Pie Chart](./screenshots/feature_insight.png) |
+| ![Heatmap](./Screenshots/correlation_heatmap.png) | ![Pie Chart](./Screenshots/platform_distribution.png) |
 | *Bivariate analysis of behavioral traits* | *Distribution of social media platforms* |
 
 ## 🛠 Tech Stack
